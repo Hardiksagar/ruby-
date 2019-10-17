@@ -1,0 +1,11 @@
+# Exercise 1, part 1
+20
+30
+
+# Exercise 1, part 2
+aircraft_1 coordinates are:  10 20
+aircraft_2 coordinates are:  20 30
+aircraft_3 coordinates are:  30 40
+aircraft_4 coordinates are:  40 50
+aircraft_5 coordinates are:  50 60
+
