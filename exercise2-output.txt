@@ -1,0 +1,12 @@
+Initial X-Coord: 0
+Initial Y-Coord: 0
+Moved Right..
+Moved Right..
+Moved Left..
+Moved Up..
+Moved Up..
+Moved Down..
+Moved Up..
+Final X-Coord: 1
+Final Y-Coord: 2
+
